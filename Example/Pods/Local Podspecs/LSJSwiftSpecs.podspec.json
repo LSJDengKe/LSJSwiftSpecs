@@ -1,0 +1,22 @@
+{
+  "name": "LSJSwiftSpecs",
+  "version": "0.1.0",
+  "summary": "A short description of LSJSwiftSpecs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lishiju/LSJSwiftSpecs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lishiju": "425774863@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lishiju/LSJSwiftSpecs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LSJSwiftSpecs/Classes/**/*"
+}

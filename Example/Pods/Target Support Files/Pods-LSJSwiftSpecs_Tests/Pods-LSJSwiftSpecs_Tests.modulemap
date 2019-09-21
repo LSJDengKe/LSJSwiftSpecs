@@ -1,0 +1,6 @@
+framework module Pods_LSJSwiftSpecs_Tests {
+  umbrella header "Pods-LSJSwiftSpecs_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

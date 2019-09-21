@@ -1,0 +1,6 @@
+framework module LSJSwiftSpecs {
+  umbrella header "LSJSwiftSpecs-umbrella.h"
+
+  export *
+  module * { export * }
+}
